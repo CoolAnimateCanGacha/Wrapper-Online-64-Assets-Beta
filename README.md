@@ -6,7 +6,7 @@ To avoid messing up the main repository, My Co-Developer (GoWindowsCool) forked 
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/DEf3VCFb2H)
 ![forkedrepo](https://img.shields.io/badge/Forked%20Repo-Testing%20for%20New%20parts%206.0-green)
 
-# Note
+# Note 
 
 This is the official version of Wrapper Online+ (If you see another repository called Wrapper Online Plus, that is the unofficial version/edited version by others.) -ZyrusplaysAnimations
 
